@@ -1,8 +1,15 @@
-PRACTICA 2
+# Nombre: PRACTICA 2 VUEJS 
 
--Clonar proyecto: 
--Ejecutar npm run dev
--Para Backend ejecutar: json-server -p 4000 --watch api/products.json
+### Descripción
 
-Autor:
-Darwin Acuña Vincenty
+
+Al ser un proyecto en VUE JS, se siguen las siguientes convenciones:
+
+### Construcción 🛠️
+* **Tipo:** FRONTEND
+* **Lenguaje:** Javascript
+* **Framework:** VUEJS
+
+### Autores ✒️
+
+**Autor:** Acuña Vincenty Darwin
